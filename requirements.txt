@@ -1,0 +1,11 @@
+asyncio-nats-client==0.9.2
+asyncio-nats-streaming==0.4.0
+certifi==2019.6.16
+chardet==3.0.4
+Click==7.0
+idna==2.8
+protobuf==3.9.1
+psutil==5.6.3
+requests==2.22.0
+six==1.12.0
+urllib3==1.25.3
